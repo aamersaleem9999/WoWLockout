@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534709677364",
+    "firebase_url": "https://wowlockout-d6210.firebaseio.com",
+    "project_id": "wowlockout-d6210",
+    "storage_bucket": "wowlockout-d6210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534709677364:android:ba1c576911556396",
+        "android_client_info": {
+          "package_name": "com.example.predator.wowlockout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534709677364-tft6sl537uihtolbj02vb5a121pgkdhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.predator.wowlockout",
+            "certificate_hash": "66C620DE8F92083C825A9B9DF0A7DD5617FDED8B"
+          }
+        },
+        {
+          "client_id": "534709677364-dqbeprgmvlq10di0p3c7hnr9nf7q3qq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJYrycrbZVu7PKIBP_0fAu_zDDpWyS8HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534709677364-dqbeprgmvlq10di0p3c7hnr9nf7q3qq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
